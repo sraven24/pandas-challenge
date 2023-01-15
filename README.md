@@ -1,6 +1,6 @@
 # pandas-challenge
 
-For this challenge pandas was used to analize metrics such as budget, number of students, and test scores to evaluate the performance of the schools, as in their possible impact on reading and writing scores of teenagers in ninth through twelfth grades.  In it you will find the following dataframes:
+For this challenge pandas was used to analyize metrics such as budget, number of students, and test scores to evaluate the performance of the schools, as in their possible impact on reading and writing scores of teenagers in ninth through twelfth grades.  In it you will find the following dataframes:
 
 - District Summary
 - School Summary
