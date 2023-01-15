@@ -1,0 +1,9 @@
+Summary of Analysis
+
+- This analysis used metrics such as budget, number of students, and test scores to evaluate the performance of the schools, as in their possible impact on reading and writing scores of teenagers in ninth through twelfth grades.
+
+Two primary conclusions that can be drawn from this data
+
+1.  Charter schools outperformed district schools by a large margin in the overall passing percentage most likely due to the lower number of children per school.
+
+2.  Budget, or rather money spent per student, did not seem to play any significant impact on outcomes as the lowest budget and lowest amount spent per student were titles      held by charter schools who still outperformed the district schools who often had larger budgets and spent more per student.	
