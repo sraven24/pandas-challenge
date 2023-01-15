@@ -20,4 +20,4 @@ Make sure you have the resources folder available with the schools_complete.csv 
 
 # Resources
 
-For this project we were given a started code with preconcieved variables written into it.  There were various parts of code perwritten into it to which we had to complete or correct in order for the project to perform as intended.  All research for this module was found within the various homeworks for our pandas assignment week.
+For this project we were given a starter code with preconceived variables written into it.  There were various parts of code prewritten into it to which we had to complete or correct in order for the project to perform as intended.  All research for this module was found within the various homeworks for our pandas assignment week.
